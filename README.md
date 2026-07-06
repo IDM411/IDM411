@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hi there, I'm Ivanna! 👋
 
-<!--
-**IDM411/IDM411** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an IT student at UCF who loves hands-on problem solving, cybersecurity, and cloud architecture. I learn best by diving in, breaking things, and figuring out how to fix them. Welcome to my GitHub! 
 
-Here are some ideas to get you started:
+🛠️ **Tools & Tech Stack:** Python, FastAPI, Docker, Ollama, Splunk, Ubuntu, and WSL2.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 **I’m currently working on:** Tinkering with local LLM deployments (like Qwen 3 and Llama) using Docker and Ollama, and developing **PathPilot AI**, an AI-powered career pathway generator.
+- 🌱 **I’m currently learning:** Network defense, incident response, and log analysis through my CodePath Cybersecurity coursework.
+- 👯 **I’m looking to collaborate on:** Cloud architecture projects, specifically exploring how to scale containerized workflows and improve cloud-native security.
+- 🤔 **I’m looking for help with:** Best practices for transitioning local projects and VMs into scalable cloud environments.
+- 📫 **How to reach me:** [LinkedIn](https://www.linkedin.com/in/ivanna-donoso)
+- 😄 **Pronouns:** She/Her
+- ⚡ **Fun fact:** When I'm not deep down a troubleshooting rabbit hole, I'm probably analyzing the narrative themes of the *Life is Strange* series or perfecting my parry timing in *Clair Obscur: Expedition 33*. I love choices-matter games!
