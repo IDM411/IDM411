@@ -5,7 +5,7 @@ I'm an IT student at UCF who loves hands-on problem solving, cybersecurity, and 
 
 - 🔭 **I'm currently working on:** Tinkering with local LLM deployments (like Qwen 3 and Llama) using Docker and Ollama, and developing **PathPilot AI**, an AI-powered career pathway generator.
 - 🏆 **Recently completed:** CodePath's Intermediate Cybersecurity course — led a team investigation analyzing 300+ AWS CloudTrail logs from an intentionally exposed S3 honeypot, correlating attacker activity in Splunk, mapping techniques to MITRE ATT&CK, and triaging incident severity using an AWS incident response playbook.
-- 🌱 **I'm currently learning:** Continuing with CodePath in **AI301: Open Source Capstone**, alongside network defense, incident response, and log analysis, and studying for my Security+.
+- 🌱 **I'm currently learning:** Continuing with CodePath in **AI301: Open Source Capstone**, alongside network defense, incident response, and log analysis, and studying for my Network+.
 - 👯 **I'm looking to collaborate on:** Cloud architecture projects, specifically exploring how to scale containerized workflows and improve cloud-native security.
 - 🤔 **I'm looking for help with:** Best practices for transitioning local projects and VMs into scalable cloud environments.
 - 📫 **How to reach me:** [LinkedIn](https://www.linkedin.com/in/ivanna-donoso)
