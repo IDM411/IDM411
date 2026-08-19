@@ -28,6 +28,7 @@ I'm an IT major at UCF looking to keep developing myself, specializing in **syst
 
 ### 📌 Current Focus & Projects
 * 🔭 **Active Builds:** Tinkering with self-hosted, containerized local LLM workflows via Docker and Ollama, alongside building CLI/automation tools to streamline development environments.
+* 🖥️ **Systems Tinkering:** Migrated my daily driver to a custom Nobara/Fedora setup — sandboxed QEMU/KVM virtualization with bridged networking and PipeWire audio passthrough, tuned around a custom Wayland/KDE Plasma desktop.
 * 🏆 **Recent Milestone:** Completed CodePath's Intermediate Cybersecurity course—led an incident response investigation auditing 300+ AWS CloudTrail logs from an exposed S3 bucket, correlating reconnaissance patterns in Splunk, mapping to MITRE ATT&CK, and triaging threats via AWS IR playbooks.
 * 🌱 **Currently Learning:** CodePath's **AI301: Open Source Capstone**, advanced network defense & log analysis, and prepping for the **CompTIA Network+**. Also easing into daily-driving Linux (running Nobara for a couple of months now).
 
