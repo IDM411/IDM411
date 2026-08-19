@@ -1,13 +1,39 @@
 ## Hi there, I'm Ivanna! 👋
-I'm an IT student at UCF who loves hands-on problem solving, cybersecurity, and cloud architecture. I learn best by diving in, breaking things, and figuring out how to fix them. Welcome to my GitHub! 
+I'm an IT major at UCF looking to keep developing myself, specializing in **systems infrastructure and cybersecurity defense**. I learn best by diving into the deep end—tinkering with low-level systems, containerizing workloads, and dissecting security logs to understand how everything connects under the hood.
 
-🛠️ **Tools & Tech Stack:** Python, FastAPI, Docker, Ollama, Splunk, VirusTotal, Ubuntu, and WSL2.
+---
 
-- 🔭 **I'm currently working on:** Tinkering with local LLM deployments (like Qwen 3 and Llama) using Docker and Ollama, and developing **PathPilot AI**, an AI-powered career pathway generator.
-- 🏆 **Recently completed:** CodePath's Intermediate Cybersecurity course — led a team investigation analyzing 300+ AWS CloudTrail logs from an intentionally exposed S3 honeypot, correlating attacker activity in Splunk, mapping techniques to MITRE ATT&CK, and triaging incident severity using an AWS incident response playbook.
-- 🌱 **I'm currently learning:** Continuing with CodePath in **AI301: Open Source Capstone**, alongside network defense, incident response, and log analysis, and studying for my Network+.
-- 👯 **I'm looking to collaborate on:** Cloud architecture projects, specifically exploring how to scale containerized workflows and improve cloud-native security.
-- 🤔 **I'm looking for help with:** Best practices for transitioning local projects and VMs into scalable cloud environments.
-- 📫 **How to reach me:** [LinkedIn](https://www.linkedin.com/in/ivanna-donoso)
-- 😄 **Pronouns:** She/Her
-- ⚡ **Fun fact:** When I'm not deep down a troubleshooting rabbit hole, I'm probably analyzing the narrative themes of the *Life is Strange* series or perfecting my parry timing in *Clair Obscur: Expedition 33*. I love choices-matter games!
+### 🛠️ Core Tech & Tooling
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Ollama](https://img.shields.io/badge/-Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
+![Splunk](https://img.shields.io/badge/-Splunk-000000?style=flat-square&logo=splunk&logoColor=white)
+![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
+![WSL2](https://img.shields.io/badge/-WSL2-4D4D4D?style=flat-square&logo=linux&logoColor=white)
+![Nobara Linux](https://img.shields.io/badge/-Nobara%20Linux-000000?style=flat-square&logo=linux&logoColor=white)
+![VirusTotal](https://img.shields.io/badge/-VirusTotal-394EFF?style=flat-square&logo=virustotal&logoColor=white)
+
+| Category | Stack |
+|---|---|
+| **Systems & Infra** | Ubuntu, Nobara Linux, QEMU/KVM, Docker & Compose, WSL2, Bash |
+| **AI & Local Compute** | Ollama, FastAPI, Python, Local Model Orchestration (Llama, Qwen) |
+| **Security & Analysis** | Splunk (SPL), Wireshark, VirusTotal API, AWS CloudTrail, MITRE ATT&CK |
+| **Dev Environment** | VS Code |
+
+---
+
+### 📌 Current Focus & Projects
+* 🔭 **Active Builds:** Tinkering with self-hosted, containerized local LLM workflows via Docker and Ollama, alongside building CLI/automation tools to streamline development environments.
+* 🏆 **Recent Milestone:** Completed CodePath's Intermediate Cybersecurity course—led an incident response investigation auditing 300+ AWS CloudTrail logs from an exposed S3 bucket, correlating reconnaissance patterns in Splunk, mapping to MITRE ATT&CK, and triaging threats via AWS IR playbooks.
+* 🌱 **Currently Learning:** CodePath's **AI301: Open Source Capstone**, advanced network defense & log analysis, and prepping for the **CompTIA Network+**. Also easing into daily-driving Linux (running Nobara for a couple of months now).
+
+---
+
+### 📬 Connect & Trivia
+* 📫 **Reach Me:** [LinkedIn](https://www.linkedin.com/in/ivanna-donoso)
+* 😄 **Pronouns:** She/Her
+* ⚡ **When I'm AFK:** If I'm not deep down an OS troubleshooting rabbit hole, I'm probably analyzing narrative branching in *Life is Strange* or perfecting parry frames in *Clair Obscur: Expedition 33*.
