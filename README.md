@@ -1,5 +1,5 @@
 ## Hi there, I'm Ivanna! 👋
-I'm an IT major at UCF looking to keep developing myself, specializing in **systems infrastructure and cybersecurity defense**. I learn best by diving into the deep end—tinkering with low-level systems, containerizing workloads, and dissecting security logs to understand how everything connects under the hood.
+I'm an IT major at UCF looking to keep developing myself, specializing in **systems infrastructure and cybersecurity defense**. I learn best by diving into the deep end tinkering with low-level systems, containerizing workloads, and dissecting security logs to understand how everything connects under the hood.
 
 ---
 
