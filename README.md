@@ -1,13 +1,23 @@
 <div align="center">
 
-<img src="./assets/terminal.svg" alt="Ivanna's personnel file — IT major at UCF specializing in systems infrastructure and cybersecurity defense. Full text is in the plain-text version below." width="100%" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/terminal-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/terminal-light.svg" />
+  <img src="./assets/terminal-dark.svg" alt="Ivanna's personnel file — IT major at UCF specializing in systems infrastructure and cybersecurity defense. Full text is in the plain-text version below." width="100%" />
+</picture>
 
-<a href="https://www.linkedin.com/in/ivanna-donoso"><img src="./assets/linkedin-button.svg" alt="Open comm channel: LinkedIn" /></a>
+<a href="https://www.linkedin.com/in/ivanna-donoso">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/linkedin-button-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/linkedin-button-light.svg" />
+  <img src="./assets/linkedin-button-dark.svg" alt="Open comm channel: LinkedIn" />
+</picture>
+</a>
 
 </div>
 
 <details>
-<summary><b>▸ PLAIN-TEXT VERSION</b></summary>
+<summary><b>PLAIN-TEXT VERSION</b></summary>
 
 <br/>
 
